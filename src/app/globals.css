@@ -1,0 +1,18 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+html, body {
+    height: 100%;
+    background-color: #F9F9EF;
+    font-family: "Kode Mono", monospace;
+    font-weight: 400;
+  }
+  
+  #root { /* o el id del elemento root si estás usando algo diferente en tu index.html */
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+  }
+

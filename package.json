@@ -1,0 +1,38 @@
+{
+  "name": "portfolio_angelo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nextui-org/react": "^2.2.9",
+    "@sendgrid/mail": "^8.1.1",
+    "express": "^4.18.2",
+    "framer-motion": "^10.18.0",
+    "i18next": "^23.10.0",
+    "nes.css": "^2.3.0",
+    "next": "^14.1.1-canary.67",
+    "next-i18next": "^15.2.0",
+    "nodemailer": "^6.9.11",
+    "react": "^18.2.0",
+    "react-code-blocks": "^0.1.5",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^14.0.5",
+    "react-icons": "^4.12.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.201",
+    "@types/node": "^20",
+    "@types/nodemailer": "^6.4.14",
+    "@types/react": "^18.2.46",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.5",
+    "typescript": "^5"
+  }
+}
