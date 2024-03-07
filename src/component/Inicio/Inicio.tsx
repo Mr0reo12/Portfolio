@@ -32,16 +32,16 @@ const Inicio: React.FC = () => {
             <FaJsSquare className="text-4xl mx-2" />
             <FaPython className="text-4xl mx-2" />
           </div>
-          <a href="https://calendly.com/angelolagomarsino/30min?back=1&month=2024-03">
-          <button className="bg-black text-white font-bold py-2 px-4 rounded hover:bg-gray-700 transition duration-300 ease-in-out">
-            Contact
-          </button>
-          </a>
-          <div className="flex mt-4">
-            <a href="https://www.linkedin.com/in/angelo-lagomarsino-392165261/" target="_blank" rel="noopener noreferrer" className="text-black mx-2">
+          <div className="flex items-center">
+            <a href="https://calendly.com/angelolagomarsino/30min?back=1&month=2024-03">
+              <button className="bg-black text-white font-bold py-2 px-4 rounded hover:bg-gray-700 transition duration-300 ease-in-out">
+                Contact
+              </button>
+            </a>
+            <a href="https://www.linkedin.com/in/yourlinkedin" className="text-black ml-4">
               <FaLinkedin className="text-4xl hover:text-blue-600" />
             </a>
-            <a href="https://github.com/Mr0reo12" target="_blank" rel="noopener noreferrer" className="text-black mx-2">
+            <a href="https://github.com/yourgithub" className="text-black ml-4">
               <FaGithub className="text-4xl hover:text-gray-600" />
             </a>
           </div>
