@@ -3,16 +3,17 @@
 import React from 'react';
 import Image from 'next/image';
 
-interface Project {
+
+export interface Project {
   id: number;
   title: string;
   description: string;
   image: string;
-  url: string;
-  repoUrl: string;  // Asegúrate de tener esta propiedad en tu objeto de proyecto
+  url?: string;
+  repoUrl?: string;  // Asegúrate de tener esta propiedad en tu objeto de proyecto
 }
 
-interface ProjectCardProps {
+export interface ProjectCardProps {
   project: Project;
 }
 

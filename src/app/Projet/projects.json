@@ -4,7 +4,6 @@
     "title": "Starbucks",
     "description": "Landing Page created using HTML, CSS and Javascript. This page was intended for a Starbucks Chile competition.",
     "image": "/starbucks.png",
-
     "url": "https://mr0reo12.github.io/LandingPage/#",
     "repoUrl": "https://github.com/mr0reo12/LandingPage"
     
@@ -14,7 +13,6 @@
     "title": "Snake",
     "description": "Snake game made in HTML, CSS and Javascript to improve my logic in algorithms.",
     "image": "/snake.png",
- 
     "url": "https://mr0reo12.github.io/Snake-/",
     "repoUrl": "https://github.com/mr0reo12/Snake-"
   },
@@ -24,7 +22,6 @@
     "title": "Weather App",
     "description": "Project using React and TaildwindCSS to improve the UI/UX experience and learn how to use a API.",
     "image": "/weatherapp.png",
- 
     "url": "https://weather-app-kohl-two-66.vercel.app/",
     "repoUrl": "https://github.com/Mr0reo12/WeatherApp"
   },
@@ -35,7 +32,6 @@
     "title": "Calculator",
     "description": "Project using HTML, CSS and Javascript to improve the UI/UX experience and my logic in algorithms.",
     "image": "/calculadora.png",
- 
     "url": "https://mr0reo12.github.io/Calculator/",
     "repoUrl": "https://github.com/mr0reo12/Calculator"
   },
@@ -45,7 +41,6 @@
     "title": "Feldrise",
     "description": "Project carried out during my work placement at Feldrise, the site is made in HTML and CSS.",
     "image": "/feldrise.png",
- 
     "url": "https://mr0reo12.github.io/feldrise-site/",
     "repoUrl": "https://github.com/mr0reo12/feldrise-site"
   },
@@ -55,7 +50,6 @@
     "title": "Codetdog",
     "description": "Project carried out at feldrise for the client codetdog, the site is made in Next.js, React and TailwindCSS.",
     "image": "/codetdog.png",
- 
     "url": "https://codetdog.com/",
     "repoUrl": "https://github.com/Feldrise/codetdog"
   },
@@ -66,7 +60,6 @@
     "title": "API REST in Django ",
     "description": "REST API project in Django/Python to learn all about the constraints of REST architecture.",
     "image": "/apirest.png",
-
     "repoUrl": "https://github.com/Mr0reo12/Geolocalisation-Maps"
   },
 
@@ -76,7 +69,6 @@
     "title": "Tictactoe",
     "description": "Project in HTML, CSS and Javascript to improve my experience as a developer, logic and UI / UX.",
     "image": "/tictactoe.png",
- 
     "url": "https://mr0reo12.github.io/Tictactoe/",
     "repoUrl": "https://github.com/Feldrise/Tictactoe"
 
@@ -87,9 +79,7 @@
     "title": "To Do List ",
     "description": "HTML, CSS, Javascript, PHP and MySQL project to learn how to create a CRUD with real database.",
     "image": "/todolist.png",
-
     "url": "https://morning-reef-24067-1c62e859c586.herokuapp.com/",
-
     "repoUrl": "https://github.com/Mr0reo12/To-Do-List"
   },
 
@@ -98,12 +88,9 @@
     "title": "Geolocation Maps ",
     "description": "HTML, CSS and Javascript project to learn how to create a geolocation maps in Leaflet with city of France.",
     "image": "/apimaps.png",
-
     "url": "https://enigmatic-wildwood-09002-0647426348c4.herokuapp.com/",
-
     "repoUrl": "https://github.com/Mr0reo12/Geolocalisation-Maps"
   }
-
 
 
 ]
