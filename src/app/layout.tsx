@@ -5,7 +5,7 @@ import Navbar from '@/component/Navbar/Navbar'
 
 
 
-  const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'Portfolio - Angelo Lagomarsino',
@@ -20,7 +20,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-    
       <Navbar/>
       {children}
       </body>

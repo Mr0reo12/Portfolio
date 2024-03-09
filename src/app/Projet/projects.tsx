@@ -1,7 +1,7 @@
 // pages/projects.tsx
 import React from 'react';
-import ProjectCard, { Project } from './Projet'; // Asegúrate de que esta sea la ruta correcta a tu componente ProjectCard.
 import projectsData from './projects.json'; // La ruta debe ser la ubicación real del archivo 'projects.json'.
+import ProjectCard, { Project } from './Projet';
 
 
 const ProjectsSection: React.FC = () => {

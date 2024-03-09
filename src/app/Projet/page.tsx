@@ -1,8 +1,6 @@
 "use client"
 import Footer from "@/component/Footer/Footer";
-import ProjectCard from "./Projet";
 import ProjectsSection from "./projects";
-import projects from './projects.json';
 
 
 const ProjetPage = () => {
