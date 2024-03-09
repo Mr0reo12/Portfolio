@@ -1,8 +1,9 @@
 // Inicio.tsx
 import React from 'react';
 import { FaNodeJs, FaReact, FaHtml5, FaLaravel, FaJsSquare, FaPython, FaLinkedin, FaGithub } from 'react-icons/fa';
+import { SiTypescript  } from 'react-icons/si';
 import Image from 'next/image';
-import Footer from '../Footer/Footer';
+import Footer from '../../component/Footer/Footer';
 
 const Inicio: React.FC = () => {
   return (
@@ -23,7 +24,14 @@ const Inicio: React.FC = () => {
         <div className="w-full md:w-1/2 p-8">
           <h1 className="text-3xl md:text-5xl font-black mb-4">Angelo Lagomarsino</h1>
           <p className="text-lg md:text-2xl mb-4">Web Developer</p>
-          {/* Contenedor para íconos y botón de contacto */}
+          <div className="flex mb-4">
+            <FaNodeJs className="text-4xl mx-2" />
+            <FaReact className="text-4xl mx-2" />
+            <FaHtml5 className="text-4xl mx-2" />
+            <FaLaravel className="text-4xl mx-2" />
+            <SiTypescript className="text-4xl mx-2" />
+            <FaPython className="text-4xl mx-2" />
+          </div>
           <div className="flex flex-col sm:flex-row justify-center md:justify-start items-center">
             {/* Ajusta el margen para íconos y botón */}
             <a href="https://calendly.com/angelolagomarsino/30min" className="mb-4 sm:mb-0 sm:mr-4">
