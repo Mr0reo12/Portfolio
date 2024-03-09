@@ -2,7 +2,7 @@
 "use client";
 import React from 'react';
 import Footer from "@/component/Footer/Footer";
-import ContactForm from "./Contact";
+import ContactForm from './Contact';
 
 const ContactPage: React.FC = () => {
   return (

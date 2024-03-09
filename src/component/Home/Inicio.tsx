@@ -3,7 +3,7 @@ import React from 'react';
 import { FaNodeJs, FaReact, FaHtml5, FaLaravel, FaJsSquare, FaPython, FaLinkedin, FaGithub } from 'react-icons/fa';
 import { SiTypescript  } from 'react-icons/si';
 import Image from 'next/image';
-import Footer from '../../component/Footer/Footer';
+import Footer from '../Footer/Footer';
 
 const Inicio: React.FC = () => {
   return (

@@ -25,22 +25,22 @@ const Navbar: React.FC = () => {
         >
           <ul className="md:flex items-center space-x-0 md:space-x-4">
             <li className="border-b md:border-b-0">
-              <Link href="/Home" legacyBehavior>
+              <Link href="/" legacyBehavior>
                 <a className={linkStyle}>Home</a>
               </Link>
             </li>
             <li className="border-b md:border-b-0">
-              <Link href="/About" legacyBehavior>
+              <Link href="/about" legacyBehavior>
                 <a className={linkStyle}>About me</a>
               </Link>
             </li>
             <li className="border-b md:border-b-0">
-              <Link href="/Projet" legacyBehavior>
+              <Link href="/projet" legacyBehavior>
                 <a className={linkStyle}>Portfolio</a>
               </Link>
             </li>
             <li className="border-b md:border-b-0">
-              <Link href="/Contact" legacyBehavior>
+              <Link href="/contact" legacyBehavior>
                 <a className={linkStyle}>Contact</a>
               </Link>
             </li>

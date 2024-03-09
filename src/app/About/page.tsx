@@ -1,6 +1,6 @@
 
 import React from 'react';
-import About from '@/app/About/About';
+import About from '@/app/about/About';
 import Footer from '@/component/Footer/Footer';
 import SkillsSection from './Skills';
 
