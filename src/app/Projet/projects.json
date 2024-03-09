@@ -48,7 +48,7 @@
   {
     "id": 5,
     "title": "Codetdog",
-    "description": "Project carried out at feldrise for the client codetdog, the site is made in Next.js, React and TailwindCSS.",
+    "description": "Project carried out at Feldrise for the client codetdog, the site is made in Next.js, React and TailwindCSS.",
     "image": "/codetdog.png",
     "url": "https://codetdog.com/",
     "repoUrl": "https://github.com/Feldrise/codetdog"
@@ -59,8 +59,8 @@
     "id":10,
     "title": "API REST in Django ",
     "description": "REST API project in Django/Python to learn all about the constraints of REST architecture.",
-    "image": "/apirest.png",
-    "repoUrl": "https://github.com/Mr0reo12/Geolocalisation-Maps"
+    "image": "/apirest.png"
+    
   },
 
 
@@ -86,7 +86,7 @@
   {
     "id": 8,
     "title": "Geolocation Maps ",
-    "description": "HTML, CSS and Javascript project to learn how to create a geolocation maps in Leaflet with city of France.",
+    "description": "HTML, CSS and Javascript project to learn how to create a geolocation maps with Leaflet a Javascript library.",
     "image": "/apimaps.png",
     "url": "https://enigmatic-wildwood-09002-0647426348c4.herokuapp.com/",
     "repoUrl": "https://github.com/Mr0reo12/Geolocalisation-Maps"

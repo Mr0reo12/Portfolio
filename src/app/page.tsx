@@ -6,12 +6,9 @@ import Inicio from '@/component/Inicio/Inicio'
 
 export default function Home() {
   return (
-    <main className='bg-custom-cream font-custom'>
-      <div className='flex flex-col h-screen"'>
-      <Inicio/>
-      <Footer/>
-      
-      </div>
+    <main className="flex flex-col min-h-screen bg-custom-cream font-custom">
+    <Inicio/>
+  
     </main>
   
   )

@@ -60,6 +60,8 @@ const ContactForm: React.FC = () => {
         </div>
       </form>
     </div>
+    
+    
   );
 };
 
